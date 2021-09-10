@@ -1,10 +1,11 @@
-# Software Acrhitectures
+# Software Architectures
 
-This project is created for final exam for Advanced Software Architectures.
+This project is created for the final exam for Advanced Software Architectures. 
+It represents app for managing employees and departments inside one organization.
 
-It consists of two applications, front end and backend. App is made for managing employees and departments inside one organization.
+It consists of two applications, front-end and back-end. The front-end app is done in react and back-end are done in Spring Boot. Back-end consist of four micro services, one is Discovery service and the other three and made as clients. Discovery service runs on port 8761.
 
-Frontend app is done in react and backend are done in Spring Boot. Backend consist of four microservices, one is Discovery service and the other three and made as clients.
+To start application, it's necessary to have previously installed mysql, java 15, and node js. The front-end app is hosted on port 3000.
 
 ## Organization service
 
