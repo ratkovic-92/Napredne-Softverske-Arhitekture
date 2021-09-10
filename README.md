@@ -46,7 +46,7 @@ http://localhost:9003/{id}/with-employees
 Get specific organization with departments and employees - GET
 ```
 http://localhost:9003/{id}/with-departments-and-employees
-
+```
 
 ## Department service
 
